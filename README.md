@@ -1,2 +1,2 @@
 # lab6
-LINK: https://dbdiagram.io/d/6425b19c5758ac5f17258507
+LINK: https://dbdiagram.io/d/643a83e66b31947051a41e6b
